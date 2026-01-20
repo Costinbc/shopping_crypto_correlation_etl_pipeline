@@ -1,6 +1,7 @@
 logs/
 images/
 plugins/
+config/
 
 .env
 
