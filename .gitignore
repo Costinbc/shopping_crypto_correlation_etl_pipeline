@@ -1,0 +1,10 @@
+logs/
+images/
+plugins/
+
+.env
+
+.idea/
+dags/__pycache__/
+
+*.zip

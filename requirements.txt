@@ -1,0 +1,9 @@
+pandas
+dotenv
+apache-airflow
+requests
+sqlalchemy
+kagglehub[pandas-datasets]
+matplotlib
+numpy
+seaborn
